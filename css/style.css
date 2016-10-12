@@ -1,0 +1,25 @@
+*{margin:0;
+  padding:0;}
+ #head{position: fixed;
+ 	   display: block;
+ 	   z-index:9999;
+ 	   top: 0px;
+ 	   left: 0px;
+       height: 60px;
+       width: 1903px;
+       color: #fff;
+       background: #CD2626;
+       box-shadow: 0 0 5px #ccc;
+       border: 1px solid #ccc;}
+ #head h2{text-align: center;
+ 	line-height: 60px;}
+ #main{position: relative;
+       top:75px;}
+ .box{padding: 15px 0 0 15px;
+      float: left;}
+ .pic{padding: 10px;
+ 	  border: 0px dotted #ccc;
+ 	  border-radius: 5px;
+      box-shadow: 0 0 5px #ccc;}
+ .pic img{width: 250px;
+          height: auto;}
